@@ -1,0 +1,14 @@
+{
+    "columns": [
+        {
+            "field": "UserName",
+            "type": "STRING"
+        },
+        {
+            "field": "PassWord",
+            "unique": false,
+            "type": "NUMBER"
+        }
+    ],
+    "data": []
+}

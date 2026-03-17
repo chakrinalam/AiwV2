@@ -1,0 +1,12 @@
+POST http://localhost:5015/SV8/Certificates/Insert/SchemaColumnsOnly
+Content-Type: application/json
+
+{
+  "username": "",
+  "password": "",
+  "name": "",
+  "date": "",
+  "plantNo": "",
+  "lat": "",
+  "lng": ""
+}

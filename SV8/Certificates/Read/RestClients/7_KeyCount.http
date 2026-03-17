@@ -1,0 +1,1 @@
+GET http://localhost:5015/SV8/Certificates/Read/KeyCount/{Column name}
